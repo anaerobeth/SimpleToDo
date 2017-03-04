@@ -39,11 +39,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-The tuturial was a fun introduction to Android framework and I especially appreciate the clear explanation of concepts of adapters and interacting with files. I spent a bit of time to understand how to use Intent for launching other activities and passing data between activities. Sending back the edited text and displaying it in the correct location in the list view took some research and trial and error but it was very satisfying to see the app come together in the end. As next steps, I would be interested in implementing support for persisting data and completion dates once I get more fluent in Android development.
+The tutorial was a fun introduction to Android framework and I especially appreciate its clear explanation of concepts of adapters and interacting with files. I spent a bit of time understanding how to use Intent for launching other activities and passing data between activities. Sending back the edited text and displaying it in the correct location in the list view took some research and trial and error, but it was very satisfying to see the app come together in the end. As for the next steps, I would be interested in implementing support for persisting data in a database and completion dates once I get more fluent in Android development.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Anaerobeth]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
